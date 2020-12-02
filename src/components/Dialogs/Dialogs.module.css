@@ -1,3 +1,28 @@
+.dialogs {
+  display: grid;
+  grid-template-columns: 1fr 3fr;
+}
+
+.usersDialog {
+  padding: 10px;
+  color: white;
+}
+
+.dialog {
+}
+
+.active {
+  color: gold;
+}
+
+.chats {
+  padding: 10px;
+  color: white;
+}
+
+.message {
+}
+
 .item {
   padding: 10px;
 }
